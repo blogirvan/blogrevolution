@@ -10,7 +10,7 @@
     rmoreText      = "Selengkapnya &#9658;",
     prevText       = "Sebelumnya",
     nextText       = "Berikutnya",
-    siteUrl        = "http://"+window.location.hostname+"",
+    siteUrl        = "https://"+window.location.hostname+"",
     postsperpage   = 6,
     numchars       = 100,
     imgBlank       = "http://3.bp.blogspot.com/-MzMilqmiIbQ/UUPfgxyHP5I/AAAAAAAACRc/w-HMiiF_LuY/s70/faceblogSM-nogambar.jpg",
